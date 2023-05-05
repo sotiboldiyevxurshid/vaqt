@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+
+.type{
+    background-color: black;
+    width: 850px;
+    height: 400px;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 2rem;
+}
+
+.name{
+    color: white;
+    padding-top: 50px;
+}
+
+.inp{
+    margin-top: 50px;
+    padding: 20px 100px;
+    border-radius: 10pt;
+}
+
+.o1{
+    margin-top: 25px;
+    width: 80px;
+    height: 35px;
+    border-radius: 5pt;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.o2{
+    margin-top: 25px;
+    width: 80px;
+    height: 35px;
+    border-radius: 5pt;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.o3{
+    margin-top: 25px;
+    width: 80px;
+    height: 35px;
+    border-radius: 5pt;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.o4{
+    margin-top: 25px;
+    width: 80px;
+    height: 35px;
+    border-radius: 5pt;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.o5{
+    margin-top: 25px;
+    width: 80px;
+    height: 35px;
+    border-radius: 5pt;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.o6{
+    margin-top: 25px;
+    width: 80px;
+    height: 35px;
+    border-radius: 5pt;
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+.scren{
+    padding: 20px 50px;
+    margin-top: -100px;
+    margin-right: 305px;
+    margin-left: 550px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: aqua;
+}
