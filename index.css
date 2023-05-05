@@ -25,7 +25,7 @@
     border-radius: 10pt;
 }
 
-.o1{
+.btn{
     margin-top: 25px;
     width: 80px;
     height: 35px;
@@ -34,7 +34,7 @@
     cursor: pointer;
 }
 
-.o2{
+.btn2{
     margin-top: 25px;
     width: 80px;
     height: 35px;
@@ -43,7 +43,7 @@
     cursor: pointer;
 }
 
-.o3{
+.btn3{
     margin-top: 25px;
     width: 80px;
     height: 35px;
@@ -52,7 +52,7 @@
     cursor: pointer;
 }
 
-.o4{
+.btn4{
     margin-top: 25px;
     width: 80px;
     height: 35px;
@@ -61,7 +61,7 @@
     cursor: pointer;
 }
 
-.o5{
+.btn5{
     margin-top: 25px;
     width: 80px;
     height: 35px;
@@ -70,7 +70,7 @@
     cursor: pointer;
 }
 
-.o6{
+.btn6{
     margin-top: 25px;
     width: 80px;
     height: 35px;
